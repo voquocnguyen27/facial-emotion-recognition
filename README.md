@@ -10,3 +10,5 @@ The task is to categorize each face based on the emotion shown in the facial exp
 For this project, I chose Kaggle as the base environment because of the support for GPU training, especially for image classification like this project.
 # Coding
 All my code is available on Github, and the result can be regenerated due to the static random variables.
+# References
+Pham Luan, The Huynh Vu, and Tuan Anh Tran. "Facial Expression Recognition using Residual Masking Network". In: Proc. ICPR. 2020.
