@@ -11,6 +11,7 @@ You can download all the data used in this project by following these API comman
 ```bash
 kaggle datasets download -d voquocnguyen/facial
 ```
+or find "FER-2013 csv" dataset on Kaggle.
 # Environment
 For this project, I chose Kaggle as the base environment because of the support for GPU training, especially for image classification like this project.
 # Coding
