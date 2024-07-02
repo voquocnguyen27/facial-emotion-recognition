@@ -10,7 +10,6 @@ The task is to categorize each face based on the emotion shown in the facial exp
 You can download all the data used in this project by following these API command:
 ```bash
 kaggle datasets download -d voquocnguyen/facial
-kaggle datasets download -d voquocnguyen/configs
 ```
 # Environment
 For this project, I chose Kaggle as the base environment because of the support for GPU training, especially for image classification like this project.
